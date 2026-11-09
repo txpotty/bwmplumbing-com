@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bwmplumbing.com/sitemap.xml
